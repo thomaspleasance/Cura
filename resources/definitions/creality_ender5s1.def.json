@@ -23,11 +23,11 @@
                 [32, 34]
             ]
         },
-        "machine_height": { "default_value": 305 },
+        "machine_height": { "default_value": 280 },
         "machine_name": { "default_value": "Creality Ender-5 S1" },
         "machine_width": { "default_value": 225 },
         "material_bed_temperature": { "value": 60 },
-        "retraction_amount": { "value": 2 },
+        "retraction_amount": { "value": 0.8 },
         "retraction_speed": { "value": 45 },
         "speed_print": { "value": 80.0 },
         "support_z_distance": { "value": 0.25 },
